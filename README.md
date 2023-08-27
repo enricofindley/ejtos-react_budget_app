@@ -1,1 +1,3 @@
-# coding-project-template
+# Budget Allocation App
+
+Tech Stack: React
